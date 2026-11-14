@@ -7,16 +7,24 @@ The objective is to explore computer fundamentals, understand operating systems,
 
 ## Mission Index
 
-| Mission | Topic                  | Status      |
+| Mission |         Topic          | Status      |
 
 | 00 |      GitHub Workspace Setup | In Progress |
+
 | 01 |      Computer Fundamentals  | Not Started |
+
 | 02 |      Terminal Operations    | Not Started |
+
 | 03 |      Operating Systems      | Not Started |
+
 | 04 |      How Programs Run       | Not Started |
+
 | 05 |      Numbers and Data       | Not Started |
+
 | 06 |      Git and GitHub         | Not Started |
+
 | 07 |      Computer Networking    | Not Started |
+
 | 08 |      Final Report           | Not Started |
 
 ## Topics Covered
