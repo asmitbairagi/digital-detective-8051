@@ -60,3 +60,17 @@ This section will be updated as I complete each mission and document what I have
 Each mission has a separate folder containing its own README.md and related work.
 
 Every mission will be documented, committed and pushed separately to GitHub.
+
+
+## My Learning
+
+Through this assignment, I learned:
+
+- How computers process information using the IPOS cycle.
+- How to navigate and manage files using the terminal.
+- How operating systems manage processes, memory, and permissions.
+- How Python programs execute.
+- How number systems and character encoding work.
+- How Git tracks changes and GitHub supports collaboration.
+
+I also gained practical experience using Git commands, creating branches, and managing a project repository.
