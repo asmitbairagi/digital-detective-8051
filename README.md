@@ -74,5 +74,22 @@ The `evidence` folder contains supporting evidence for the assignment.
 Every mission is documented separately to keep the repository organised and make the work easier to navigate.
 
 ## Final Submission
+<<<<<<< update-about
+Every mission will be documented, committed and pushed separately to GitHub.
 
+
+## My Learning
+
+Through this assignment, I learned:
+
+- How computers process information using the IPOS cycle.
+- How to navigate and manage files using the terminal.
+- How operating systems manage processes, memory, and permissions.
+- How Python programs execute.
+- How number systems and character encoding work.
+- How Git tracks changes and GitHub supports collaboration.
+
+I also gained practical experience using Git commands, creating branches, and managing a project repository.
+=======
 The final report and assignment review will be documented in the Mission 08 folder.
+>>>>>>> main
