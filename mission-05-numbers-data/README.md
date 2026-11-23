@@ -15,13 +15,13 @@ I studied four number systems:
 
 Some conversions I practised:
 
-- Binary to decimal: \(1101_2 = 13_{10}\)
-- Decimal to binary: \(19_{10} = 10011_2\)
-- Binary to hexadecimal: \(10101111_2 = AF_{16}\)
-- Hexadecimal to decimal: \(3C_{16} = 60_{10}\)
-- Hexadecimal to decimal: \(7B_{16} = 123_{10}\)
+- Binary to decimal: \(1101_2 = 13_10\)
+- Decimal to binary: \(19_10 = 10011_2\)
+- Binary to hexadecimal: \(10101111_2 = AF_16\)
+- Hexadecimal to decimal: \(3C_16 = 60_10\)
+- Hexadecimal to decimal: \(7B_16 = 123_10\)
 - Binary to octal: \(1101011_2 = 153_8\)
-- Decimal to binary: \(45_{10} = 101101_2\)
+- Decimal to binary: \(45_10 = 101101_2\)
 
 ## 4. Python Conversion Functions
 
