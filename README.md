@@ -74,7 +74,7 @@ The `evidence` folder contains supporting evidence for the assignment.
 Every mission is documented separately to keep the repository organised and make the work easier to navigate.
 
 ## Final Submission
-<<<<<<< update-about
+
 Every mission will be documented, committed and pushed separately to GitHub.
 
 
@@ -92,4 +92,3 @@ Through this assignment, I learned:
 I also gained practical experience using Git commands, creating branches, and managing a project repository.
 =======
 The final report and assignment review will be documented in the Mission 08 folder.
->>>>>>> main
